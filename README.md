@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohammed Tayubudeen 👋
 
-<!--
-**ttayubudeen/ttayubudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer passionate about building AI and backend applications.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- API Integration
+- Automation Scripts
+- Speech Recognition
+- FastAPI (learning)
+- MongoDB (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Jarvis AI Voice Assistant  
+  Voice-controlled assistant with AI responses, news retrieval, and automation.
+
+## Currently Learning
+- FastAPI
+- MongoDB
+- Backend Development
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/mohammed-tayubudeen-6b1a82307
+GitHub: https://github.com/ttayubudeen
