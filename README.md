@@ -9,6 +9,7 @@ Python developer passionate about building AI and backend applications.
 - Speech Recognition
 - FastAPI (learning)
 - MongoDB (learning)
+- PostgreSQL (learning)
 
 ## Projects
 - Jarvis AI Voice Assistant  
@@ -17,6 +18,7 @@ Python developer passionate about building AI and backend applications.
 ## Currently Learning
 - FastAPI
 - MongoDB
+- PostgreSQL
 - Backend Development
 
 ## Connect with me
