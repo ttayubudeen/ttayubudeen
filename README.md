@@ -197,3 +197,33 @@ Frontend Applications
 Automation
       ↓
 Deployment
+```
+
+I enjoy building projects where these pieces come together into a real, usable application rather than just a small demonstration.
+
+# 📚 Current Focus
+
+I'm currently focusing on becoming stronger in:
+
+- 🐍 Python Backend Development
+- ⚡ FastAPI
+- 🗄️ PostgreSQL & SQLAlchemy
+- 🔐 Authentication & Authorization
+- 🌐 REST API Design
+- ⚛️ React & TypeScript
+- 🤖 LLM Integration
+- 🧠 AI Application Architecture
+- 🐳 Docker & Deployment
+- 🏗️ Backend Architecture
+- 🤝 Let's Connect
+
+I'm interested in backend development, AI applications, automation, and interesting software projects.
+
+<p align="left"> <a href="https://github.com/ttayubudeen"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohammed-tayubudeen-6b1a82307"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mohammedtayubudeen@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+# ⚡ A little about me
+
+I like building things, breaking things, figuring out why they broke,
+and then making them work better. 🚀
+
+# Thanks for visiting my profile! ⭐
